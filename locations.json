@@ -3007,6 +3007,29 @@
 			{"lat": -76.060, "lng": 25.352}
 		]
 	},
+{
+		"type": "Territories",
+		"title": "Lean Dragon",
+		"notes": "Lean Dragon is an organized crime syndicate founded on . Said to be the most powerful gang in Los Santos, usually gaining power by way of force and influence. has a large footprint in the criminal underworld, assisted by their consistent flow of money and weapons. Other than maintaining power, they engage in various criminal activities such as: bank robberies, kidnapping, murder, racketeering, extortion, money laundering, weapons trafficking, drug manufacturing and trafficking, fraud, arson, vandalism, gang wars, street racing, and police impersonation.",
+		"wiki_link": "https://executiverp.fandom.com/wiki/Lean_Dragon",
+		"order": 0,
+		"strokecolor": "9A1317",
+		"fillcolor": "EDA322",
+		"latlngarray": [
+			{"lat": -53.116, "lng": -30.883},
+			{"lat": -53.188, "lng": -26.982},
+			{"lat": -53.234, "lng": -26.521},
+			{"lat": -53.549, "lng": -26.532},
+			{"lat": -53.893, "lng": -26.818},
+			{"lat": -54.267, "lng": -27.400},
+			{"lat": -54.840, "lng": -28.751},
+			{"lat": -54.555, "lng": -29.125},
+			{"lat": -54.389, "lng": -29.564},
+			{"lat": -54.009, "lng": -30.773},
+			{"lat": -53.906, "lng": -31.245},
+			{"lat": -53.280, "lng": -30.894}
+		]
+	},
 
 {
     "type": "Territories",
