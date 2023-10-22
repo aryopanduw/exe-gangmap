@@ -2835,6 +2835,62 @@
 
 {
     "type": "Territories",
+    "title": "Marina Salvatrucha",
+    "notes": " ",
+    "wiki_link": "https://executiverp.fandom.com/",
+    "order": 0,
+    "strokecolor": "000000",
+    "fillcolor": "000000",
+    "latlngarray": [
+        {"lat": -75.314, "lng": -44.467},
+        {"lat": -75.664, "lng": -45.929},
+        {"lat": -75.912, "lng": -46.456},
+        {"lat": -76.122, "lng": -46.478},
+        {"lat": -76.248, "lng": -46.335},
+        {"lat": -76.647, "lng": -44.731},
+        {"lat": -75.989, "lng": -41.831}
+    ]
+},
+
+{
+    "type": "Territories",
+    "title": "Black Sabbath",
+    "notes": " ",
+    "wiki_link": "https://executiverp.fandom.com/",
+    "order": 0,
+    "strokecolor": "000000",
+    "fillcolor": "000000",
+    "latlngarray": [
+        {"lat": -76.612, "lng": -7.748},
+        {"lat": -75.743, "lng": -4.584},
+        {"lat": -76.241, "lng": -2.552},
+        {"lat": -76.345, "lng": -2.903},
+        {"lat": -76.561, "lng": -3.419},
+        {"lat": -76.640, "lng": -3.727},
+        {"lat": -77.072, "lng": -5.628}
+    ]
+},
+
+{
+    "type": "Territories",
+    "title": "Last King",
+    "notes": " ",
+    "wiki_link": "https://executiverp.fandom.com/",
+    "order": 0,
+    "strokecolor": "FF0000",
+    "fillcolor": "FF0000",
+    "latlngarray": [
+        {"lat": -67.825, "lng": -25.696},
+        {"lat": -68.147, "lng": -25.642},
+        {"lat": -68.496, "lng": -25.565},
+        {"lat": -68.576, "lng": -24.224},
+        {"lat": -68.568, "lng": -23.290},
+        {"lat": -68.061, "lng": -22.818}
+    ]
+},
+
+{
+    "type": "Territories",
     "title": "X-MD",
     "notes": "also known as Ex Medical is a street gang who lives in Americano way. Founded by Jack U, Jason Bourne, Jay Valdemar. XMD is the first ever gang in the history who lives as a doctor but doin some criminal shit until the hospital disbanding all of them forcefully. Red bandana is the identity of XMD. As with most street gangs in Los Santos, XMD do such activities as Robbery, Drug Dealing and etc. They also participate in a vandalism, property crime, often for their pride and enjoyment.",
     "wiki_link": "https://executiverp.fandom.com/wiki/X-MD_(Ex_Medical)",
