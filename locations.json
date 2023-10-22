@@ -2412,6 +2412,24 @@
 
 	{
 		"type": "Territories",
+		"title": "Decker Street Rascals",
+		"notes": "Decker Street Rascals, also known by DSR is a street gang that resides in Decker Street, western part of Los Santos. Founded by Nmanu Furqon, Ming Khems, Rakeem Crawford and Trinity. Before moving to Hanger Way, South of Los Santos, They resides in Decker Street, Western Los Santos.",
+		"wiki_link": "https://executiverp.fandom.com/wiki/Decker_Street_Rascals",
+		"order": 0,
+		"strokecolor": "6fa8dc",
+		"fillcolor": "6fa8dc",
+		"latlngarray": [
+			{"lat": -79.107, "lng": 7.104},
+			{"lat": -79.023, "lng": 7.906},
+			{"lat": -79.144, "lng": 15.508},
+			{"lat": -79.578, "lng": 15.212},
+			{"lat": -79.677, "lng": 12.179},
+			{"lat": -79.538, "lng": 7.192}
+		]
+	},
+
+	{
+		"type": "Territories",
 		"title": "Bloods",
 		"notes": "ooc admin 1 doda pozniej",
 		"wiki_link": "",
