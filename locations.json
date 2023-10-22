@@ -2254,8 +2254,8 @@
 		"notes": "Decker Street Rascals, also known by DSR is a street gang that resides in Decker Street, western part of Los Santos. Founded by Nmanu Furqon, Ming Khems, Rakeem Crawford and Trinity. Before moving to Hanger Way, South of Los Santos, They resides in Decker Street, Western Los Santos.",
 		"wiki_link": "https://executiverp.fandom.com/wiki/Decker_Street_Rascals",
 		"order": 0,
-		"strokecolor": "6fa8dc",
-		"fillcolor": "6fa8dc",
+		"strokecolor": "073763",
+		"fillcolor": "073763",
 	   	"latlngarray": [
 		        {"lat": -79.107, "lng": 7.104},
 		        {"lat": -79.023, "lng": 7.906},
@@ -2322,7 +2322,7 @@
     "notes": "As a prominent force in the criminal underworld of Los Santos, the Brada White Rascals set will expand its operations beyond street-level crimes and established itself as a formidable weapons trafficking. With their solid network, cunning strategies, and determination, they have dreams to become a dominant player in the illicit weapons trade within the city.",
     "wiki_link": "https://executiverp.fandom.com/wiki/BRADA_WHITE_RASCALS",
     "order": 0,
-    "strokecolor": "FFFFFF",
+    "strokecolor": "000000",
     "fillcolor": "FFFFFF",
     "latlngarray": [
         {"lat": -73.150, "lng": -48.357},
@@ -2376,7 +2376,7 @@
     "wiki_link": "https://executiverp.fandom.com/wiki/DOPE",
     "order": 0,
     "strokecolor": "010101",
-    "fillcolor": "010101",
+    "fillcolor": "ffffff",
     "latlngarray": [
         {"lat": -60.691, "lng": 22.433},
         {"lat": -60.948, "lng": 23.708},
@@ -2400,7 +2400,7 @@
     "notes": "Excelsoir is a predominantly France gang that currently operates in Los Santos. They are involved in most criminal activities; from robbing banks,gun dealing and, gang wars. The Excelsoir gang is instantly recognizable by its use of yellow color, which is prominently displayed on bandanas, vehicles, and masks. This color choice represents their unity and determination to stand out in a world of chaos. The gang's members proudly don their signature yellow attire as a symbol of their allegiance to the Excelsoir cause.",
     "wiki_link": "https://executiverp.fandom.com/wiki/EXCELSOIR",
     "order": 0,
-    "strokecolor": "FEDD02",
+    "strokecolor": "000000",
     "fillcolor": "FEDD02",
     "latlngarray": [
         {"lat": -48.528, "lng": -30.524},
@@ -2459,7 +2459,7 @@
     "wiki_link": "https://executiverp.fandom.com/wiki/Hasta_La_Vista",
     "order": 0,
     "strokecolor": "121212",
-    "fillcolor": "121212",
+    "fillcolor": "42BCB0",
     "latlngarray": [
         {"lat": -55.742, "lng": -2.844},
         {"lat": -57.370, "lng": -3.855},
@@ -2531,7 +2531,7 @@
     "notes": "Los Salamanca 18th or so called by LSC 18th is a Mexican Gang formed by Tyler Durden also well known as GaneKey and Wantek. They were formed on 2nd of June 2023, resides in Roy Lowenstein Boulevard, Eastern of Los Santos. They used to be Northside based until The Lost MC burned their hood down and bombed by C4 back then. Ganekey was deported by The US Goverment due to illegal immigrant. The transnational shift of 18th Street is motivated by internal and transnational migration flow. Ganekey arrived at Los Santos as 18th, bringing up its own Northern US based culture, includes The Dresscode, Diction and Bravery.",
     "wiki_link": "https://executiverp.fandom.com/wiki/Los_Salamanca_18th",
     "order": 0,
-    "strokecolor": "CDC7A5",
+    "strokecolor": "000000",
     "fillcolor": "CDC7A5",
     "latlngarray": [
         {"lat": -74.263, "lng": -3.606},
@@ -2610,7 +2610,7 @@
     "notes": " ",
     "wiki_link": "https://executiverp.fandom.com/wiki/ExecutiveRP_Wiki",
     "order": 0,
-    "strokecolor": "786A52",
+    "strokecolor": "000000",
     "fillcolor": "786A52",
     "latlngarray": [
         {"lat": -45.466, "lng": -49.528},
@@ -2683,7 +2683,7 @@
     "notes": "Silent was formed on March 23, 2023, in the heart of the east side, The area was plagued by poverty, unemployment, and a lack of opportunities, making it a breeding ground for criminal activities. A group of young individuals, born and raised in this environment, came together to form a gang as a means of survival. in response to the growing economic and social challenges faced by the community. The founders believed that their neighborhood needed a collective effort to address these issues, even if it meant operating outside the boundaries of the law.",
     "wiki_link": "https://executiverp.fandom.com/wiki/Silent",
     "order": 0,
-    "strokecolor": "6A6A6A",
+    "strokecolor": "000000",
     "fillcolor": "6A6A6A",
     "latlngarray": [
         {"lat": -75.104, "lng": -6.295},
@@ -2888,6 +2888,42 @@
         {"lat": -68.061, "lng": -22.818}
     ]
 },
+		{
+		"type": "Territories",
+		"title": "Izanagi No Okami",
+		"notes": " ",
+		"wiki_link": "https://executiverp.fandom.com/wiki/IZANAGI_NO_OKAMI",
+		"order": 0,
+		"strokecolor": "E26D94",
+		"fillcolor": "E26D94",
+		"latlngarray": [
+			{"lat": -65.439, "lng": -36.414},
+			{"lat": -65.429, "lng": -33.733},
+			{"lat": -66.634, "lng": -33.668},
+			{"lat": -66.621, "lng": -35.359},
+			{"lat": -66.673, "lng": -36.401},
+			{"lat": -66.586, "lng": -36.632},
+			{"lat": -66.494, "lng": -36.687},
+			{"lat": -66.199, "lng": -36.478},
+			{"lat": -65.851, "lng": -36.412}
+		]
+	},
+{
+		"type": "Territories",
+		"title": "Loki",
+		"notes": "Loki was founded from several people who had left their previous families/gangs. Loki was founded by people who are familiar with the life of a gangster. Loki is a gang consisting of people from the upper middle class who were taught hard by their parents. From childhood they experienced suffering from their parents, ranging from beatings, violence to shooting. Because of this, they choose to leave their zone and look for their own family or new home. Starting from this, the children in Loki created their own families with various stories in them.",
+		"wiki_link": "https://executiverp.fandom.com/wiki/LOKI",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -71.362, "lng": -10.223},
+			{"lat": -71.734, "lng": -8.267},
+			{"lat": -72.267, "lng": -6.279},
+			{"lat": -72.905, "lng": -9.816},
+			{"lat": -72.227, "lng": -12.563}
+		]
+	},
 
 {
     "type": "Territories",
