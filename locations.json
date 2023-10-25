@@ -3030,6 +3030,21 @@
 			{"lat": -53.280, "lng": -30.894}
 		]
 	},
+{
+		"type": "Territories",
+		"title": "Crying Charlotte",
+		"notes": "Crying Charlotte is a group consisting of members who share many similarities in their life backgrounds, namely being individuals who have nothing, starting from money, a place to live, and even parents. As a result of this, most of us live in misery on the streets. All kinds of work are undertaken, ranging from rough jobs to committing small crimes like theft, mugging, and even extortion in the small urban alleys. Eventually, each of us is adopted by a man we refer to as ''Babeh'' and his only daughter named ''Charlotte.'' They adopt us as their children and siblings. Despite not having any blood ties, we are raised to help one another.",
+		"wiki_link": "https://executiverp.fandom.com/wiki/Crying_Charlotte",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0A1627",
+		"latlngarray": [
+			{"lat": -48.579, "lng": -13.851},
+			{"lat": -49.657, "lng": -9.368},
+			{"lat": -53.300, "lng": -11.457},
+			{"lat": -52.318, "lng": -16.049}
+		]
+	},
 
 {
     "type": "Territories",
