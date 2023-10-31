@@ -2927,26 +2927,6 @@
         {"lat": -77.072, "lng": -5.628}
     ]
 },
-
-{
-    "type": "Territories",
-    "title": "Last King",
-    "notes": "Last King comes from Prince who had left his old gang because he felt he didn't fit in and wasn't appreciated by the gang. This bitter experience aroused the desire within him to take revenge by forming a gang called the LastKings, together with Bull and Morgan, who were his close friends and even like family to Prince",
-    "wiki_link": "https://executiverp.fandom.com/wiki/Last_King",
-    "order": 0,
-    "strokecolor": "FF0000",
-    "fillcolor": "FF0000",
-    "latlngarray": [
-		{"lat": -68.495, "lng": -25.575},
-		{"lat": -68.584, "lng": -24.257},
-		{"lat": -68.572, "lng": -23.268},
-		{"lat": -67.343, "lng": -22.115},
-		{"lat": -66.839, "lng": -25.751},
-		{"lat": -67.600, "lng": -25.850},
-		{"lat": -67.904, "lng": -25.663},
-		{"lat": -68.329, "lng": -25.652}
-    ]
-},
 		{
 		"type": "Territories",
 		"title": "Izanagi No Okami",
@@ -2985,12 +2965,12 @@
 	},
 	{
 		"type": "Territories",
-		"title": "Los Nostra",
+		"title": "Nostra",
 		"notes": " ",
 		"wiki_link": "https://executiverp.fandom.com/wiki/NOSTRA",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "000000",
+		"fillcolor": "13A2BB",
 		"latlngarray": [
 			{"lat": -76.252, "lng": 24.297},
 			{"lat": -76.363, "lng": 23.451},
@@ -3043,6 +3023,46 @@
 			{"lat": -49.657, "lng": -9.368},
 			{"lat": -53.300, "lng": -11.457},
 			{"lat": -52.318, "lng": -16.049}
+		]
+	},
+{
+		"type": "Territories",
+		"title": "Street Disciples",
+		"notes": "SDS or Street Disciples is a group of people that are fantasized with the way of the streets. As a new generation gangster they look different than the old generation gangsters some of the examples are, most of the members don’t really like low riders but instead they ride the new generation of SUV’S, Muscle cars, Sedans ETC. Street Disciples members are also obsessed with y2k clothing style and they will do whatever it takes to get their hands on designer clothes. Now the Street Disciples are on a mission to prove to the old generation gangsters that they can survive in the streets too. Not only in the streets but they also like to do robbery with some crazy escape plans that came out straight out of a movie.",
+		"wiki_link": "https://executiverp.fandom.com/wiki/Street_Disciples",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -72.542, "lng": 21.982},
+			{"lat": -72.921, "lng": 19.917},
+			{"lat": -73.436, "lng": 17.983},
+			{"lat": -73.511, "lng": 17.566},
+			{"lat": -73.954, "lng": 18.181},
+			{"lat": -73.560, "lng": 21.279},
+			{"lat": -73.177, "lng": 23.344},
+			{"lat": -72.667, "lng": 22.290}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Goofy Desire",
+		"notes": "Goofy Desire was formed from the beginning of the meeting between Acesam Leo and Thierry Henry who met at the motel, then Acesam Leo introduced and taught Thierry Henry to all the activities and rules in Los Santos, then Thierry Henry was amazed and considered AcesamLeo as his younger brother and the next day AcesamLeo invited Thierry Henry to his gang, MST. Acesam Leo actually wanted to offer Thierry Henry to join the MST gang. However, Thierry Henry wanted to create a new gang where at first Acesam Leo invited MST children to join the new gang that would be formed, because no one wanted to join and MST children wanted to maintain their gang, then Acesam Leo resigned from OG MST and formed a new gang. Then the next day brought Thierry Henry to Mojito Jade (on top of the DigitalDen side building) and offered Mojito Jade to join the new gang because coincidentally Mojito Jade also had no ties in the AOD MC.",
+		"wiki_link": "https://executiverp.fandom.com/wiki/Goofy_Desire_(GODS)",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "ED1313",
+		"latlngarray": [
+			{"lat": -78.682, "lng": -15.385},
+			{"lat": -79.216, "lng": -17.384},
+			{"lat": -79.266, "lng": -17.461},
+			{"lat": -79.298, "lng": -17.439},
+			{"lat": -79.418, "lng": -16.615},
+			{"lat": -79.418, "lng": -16.352},
+			{"lat": -79.410, "lng": -16.176},
+			{"lat": -79.260, "lng": -15.561},
+			{"lat": -79.333, "lng": -15.055},
+			{"lat": -78.919, "lng": -13.627}
 		]
 	},
 
