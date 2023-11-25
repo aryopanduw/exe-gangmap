@@ -3064,6 +3064,44 @@
 		]
 	},
 
+	{
+		"type": "Territories",
+		"title": "Los Buenos Syndicate",
+		"notes": "The Biggest Businness Gang from Spanish.",
+		"wiki_link": "https://executiverp.fandom.com/wiki/Los_Buenos_Syndicate",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -65.430, "lng": -33.104},
+			{"lat": -65.416, "lng": -29.654},
+			{"lat": -65.883, "lng": -29.775},
+			{"lat": -66.635, "lng": -30.665},
+			{"lat": -66.617, "lng": -33.126}
+		]
+	},
+		{
+		"type": "Territories",
+		"title": "Bad Bear MC",
+		"notes": "Bad Bear Motorcycle Club or BBMC” is a motorcycle club founded on October 10, 2023. The name and patch of the club are inspired by bears, which occupy the top position in the food chain. The establishment of BBMC was initiated by a former AOD executive and 9 initial members called “FIRST 9”. BBMC has an Indonesian-American background and implements a hierarchical leadership system. The purpose of BBMC’s establishment is to run illegal businesses.",
+		"wiki_link": "https://executiverp.fandom.com/wiki/Bad_Bear_Motorcycle_Club",
+		"order": 0,
+		"strokecolor": "0000000",
+		"fillcolor": "786A52",
+		"latlngarray": [
+			{"lat": 26.275, "lng": 42.552},
+			{"lat": 25.484, "lng": 44.090},
+			{"lat": 24.838, "lng": 44.398},
+			{"lat": 24.588, "lng": 44.464},
+			{"lat": 24.148, "lng": 44.398},
+			{"lat": 23.877, "lng": 44.277},
+			{"lat": 23.394, "lng": 43.695},
+			{"lat": 22.909, "lng": 41.311},
+			{"lat": 23.827, "lng": 41.047},
+			{"lat": 24.158, "lng": 41.069},
+			{"lat": 25.454, "lng": 41.959}
+		]
+	},
 {
     "type": "Territories",
     "title": "X-MD",
