@@ -190,36 +190,7 @@ $(function() {
 				}),
 			]),
 		}),
-		new SectionModel({
-			name: '3.0',
-			categories: new CategoriesCollection([
-				new CategoryModel({
-					name: 'Territories',
-					icon: 'General/wall-breach.png',
-					enabled: false,
-					url: 'data/territories.3.json',
-				}),
-				new CategoryModel({
-					name: 'Heists',
-					icon: 'radar/radar_heist.png',
-					enabled: false,
-					url: 'data/heists.3.json',
-				}),
-				new CategoryModel({
-					name: 'Legal',
-					icon: 'radar/radar_police_station.png',
-					enabled: false,
-					url: 'data/legal.3.json',
-				}),
-				new CategoryModel({
-					name: 'Restaurants',
-					icon: 'radar/radar_bar.png',
-					enabled: false,
-					url: 'data/restaurants.3.json',
-				}),
-			]),
-		}),
-	]);
+		
 	
 	var showingLabels;
 	var CategoriesView = Backbone.View.extend({
